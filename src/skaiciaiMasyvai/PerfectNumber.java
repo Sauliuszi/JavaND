@@ -2,8 +2,7 @@ package skaiciaiMasyvai;
 
 public class PerfectNumber {
     public static void main(String[] args) {
-        int n = 1;
-        for (n = 1; n <= 1000; n++) {
+        for (int n = 1; n <= 1000; n++) {
             int suma = 0;
             for (int i = 1; i < n; i++) {
                 int a = n % i;
