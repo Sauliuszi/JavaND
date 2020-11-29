@@ -2,6 +2,8 @@ package klases;
 
 import klases.papildomai.Naudinga;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         Zmogus a = new Zmogus();
@@ -55,14 +57,14 @@ public class Main {
         Mokinys[] mokiniai = {m1, m2, m3, m4, m5, m6};
 //        atspausdinti mokiniu masyva
 //        for (int i = 0; i < mokiniai.length; i++)
-//        Cia tas oats, kaip ir virsuje
+//        Cia tas pats, kaip ir virsuje
         for (Mokinys mokinys : mokiniai) {
             System.out.println("Mokinio vardas ir pavarde: " + mokinys.vardas + " " + mokinys.pavarde + "; mokosi - " + mokinys.klase + " klaseje");
         }
+    }
 
-
-
-
+    static void surusiuotiMokinius(String[] a) {
+        // TODO
     }
 
 }

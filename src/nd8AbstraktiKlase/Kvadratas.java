@@ -1,4 +1,4 @@
-package nd8;
+package nd8AbstraktiKlase;
 
 public class Kvadratas extends Figura {
     private double n;

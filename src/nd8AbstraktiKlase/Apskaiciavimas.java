@@ -1,4 +1,4 @@
-package nd8;
+package nd8AbstraktiKlase;
 
 public class Apskaiciavimas {
 
@@ -18,6 +18,7 @@ public class Apskaiciavimas {
         }
         return perimetras;
     }
+
 
 
 }

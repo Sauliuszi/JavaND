@@ -1,4 +1,4 @@
-package daugybosLentele;
+package skaiciaiMasyvai;
 
 public class Rusiavimas {
 

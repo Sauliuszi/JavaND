@@ -1,4 +1,4 @@
-package nd8;
+package nd8AbstraktiKlase;
 
 public abstract class Figura {
 private double x;
