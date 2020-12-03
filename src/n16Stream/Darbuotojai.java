@@ -1,4 +1,4 @@
-package n16;
+package n16Stream;
 
 import java.util.Objects;
 
